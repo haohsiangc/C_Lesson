@@ -1,1 +1,0 @@
-void blackwin(void);
