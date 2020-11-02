@@ -1,0 +1,1 @@
+int divide(int *integer1,int *integer2);

@@ -1,0 +1,1 @@
+int minus(int *integer1,int *integer2);

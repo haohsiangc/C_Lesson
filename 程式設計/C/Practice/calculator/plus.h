@@ -1,0 +1,1 @@
+int plus(int *integer1,int *integer2);
